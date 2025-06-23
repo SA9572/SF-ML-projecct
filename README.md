@@ -15,7 +15,7 @@
         b. data_ transformation
         c. model_trainer
     
-    2. create pipeline
+    2. create pipeline folder
         a. predict_pipeline
         b. train_pipeline
 
@@ -23,3 +23,10 @@
         a. exception
         b. logger
         c. utils
+
+# Third Day Agenda
+    1. Upload csv file(dataset)
+    
+    2.Create a NoteBook folder
+        a. EDA STUDENT PERFORMANCE 
+        b. MODEL TRAINING
