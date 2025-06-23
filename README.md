@@ -16,10 +16,10 @@
         c. model_trainer
     
     2. create pipeline
-        a.predict_pipeline
-        b.train_pipeline
+        a. predict_pipeline
+        b. train_pipeline
 
     3. Inside the src folder create file
         a. exception
-        b.logger
-        c.utils
+        b. logger
+        c. utils
