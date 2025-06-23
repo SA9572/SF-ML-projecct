@@ -9,3 +9,17 @@
     2. src folder and build the package
 
 
+# Second Day Agenda
+    1. create components folder 
+        a. data_ingestion
+        b. data_ transformation
+        c. model_trainer
+    
+    2. create pipeline
+        a.predict_pipeline
+        b.train_pipeline
+
+    3. Inside the src folder create file
+        a. exception
+        b.logger
+        c.utils
