@@ -26,7 +26,11 @@
 
 # Third Day Agenda
     1. Upload csv file(dataset)
-    
+
     2.Create a NoteBook folder
         a. EDA STUDENT PERFORMANCE 
         b. MODEL TRAINING
+
+    3. Write code inside
+        a. data_ingestion
+        b. data_transformation
