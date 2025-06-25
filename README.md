@@ -31,6 +31,19 @@
         a. EDA STUDENT PERFORMANCE 
         b. MODEL TRAINING
 
-    3. Write code inside
+    3. Write code in the
         a. data_ingestion
         b. data_transformation
+
+# Fourth Day Agenda
+    1. write code in the 
+        a. pridict_pipeline
+        b. modify all .py folder according to the best model 
+
+    2. create a app.py folder
+
+    3. create a templetes folder
+        a. home.html
+        b. index.html
+
+        
